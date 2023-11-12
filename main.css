@@ -1,0 +1,14 @@
+img{
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-left: 15px;
+}
+.comment {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.biru{
+  background-color: aliceblue;
+}
